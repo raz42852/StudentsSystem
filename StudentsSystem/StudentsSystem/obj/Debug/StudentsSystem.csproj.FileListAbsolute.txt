@@ -1,0 +1,7 @@
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\bin\Debug\StudentsSystem.exe.config
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\bin\Debug\StudentsSystem.exe
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\bin\Debug\StudentsSystem.pdb
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\obj\Debug\StudentsSystem.csproj.AssemblyReference.cache
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\obj\Debug\StudentsSystem.csproj.CoreCompileInputs.cache
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\obj\Debug\StudentsSystem.exe
+C:\Users\raz\Desktop\פרויקטים מועדון המתכנתים\מערכת לניהול תלמידים\StudentsSystem\StudentsSystem\StudentsSystem\obj\Debug\StudentsSystem.pdb
